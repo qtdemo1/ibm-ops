@@ -6,7 +6,7 @@
         <groupId>com.ibm.decision.ops</groupId>
         <artifactId>ml-service-implementations</artifactId>
         <version>2.5.4-SNAPSHOT</version>
-        <relativePath>..</relativePath>
+        <relativePath>../</relativePath>
     </parent>
 
     <artifactId>ads-ml-service</artifactId>
